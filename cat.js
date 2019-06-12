@@ -8,3 +8,4 @@ Cat.prototype.weight = function() {
 
 // print
 console.log(Cat);
+console.log(Cat.food);
