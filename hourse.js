@@ -5,3 +5,5 @@ function hourse() {
 hourse.prototype.changeColor = function() {
 	this.color = "white";
 }
+
+console.log(hourse);
